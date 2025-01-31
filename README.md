@@ -1,0 +1,2 @@
+# Apuntes
+Apuntes en obsidian
